@@ -1,0 +1,12 @@
+"bcryptjs": // Gửi mk lên server sẽ tự động mã hóa
+    "concurrently": chạy dc nhiều npm run cùng 1 lúc
+    "cors": cấp quyền cho 1 máy trạm hay 1  ai đó
+    "dotenv":biến môi trường để bảo mật tên cổng tên biến tên mk 
+    "express": famwork của nodejs 
+    "joi": thư viên để vatidetion  gửi lên client
+    "jsonwebtoken":thư viên sinh ra một mã bảo mật 
+    "mongoose": làm vc với databade
+    "mongoose-paginate-v2":làm vc với databade
+    "morgan": "^1.10.0",
+    "vite": 
+    "vite-plugin-node": giúp chạy trên node = vite 
